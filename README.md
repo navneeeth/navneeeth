@@ -7,7 +7,7 @@ Web & Android & Backend Developer, Machine Learning Researcher, Adventurer
 learning to code through the simulation
 
 *   🌍  I'm based in New York, New York
-*   🖥️  See my portfolio at [GitHub](http://github.com/navneeeth)
+*   🖥️  See my portfolio [here](www.padaki-n.com)
 *   ✉️  You can contact me at [navneeth.padaki15@gmail.com](mailto:navneeth.padaki15@gmail.com)
 *   🚀  I'm currently working on [Wordle Optimizer](http://github.com/navneeeth/wordle-solver)
 *   🧠  I'm learning Natural Language Processing, Node JS, & Docker

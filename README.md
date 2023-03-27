@@ -9,7 +9,7 @@ learning to code through the simulation
 *   🌍  I'm based in New York, New York
 *   🖥️  See my portfolio [here](www.padaki-n.com)
 *   ✉️  You can contact me at [navneeth.padaki15@gmail.com](mailto:navneeth.padaki15@gmail.com)
-*   🚀  I'm currently working on [Wordle Optimizer](http://github.com/navneeeth/wordle-solver)
+*   🚀  I'm currently working on [YouTube Video Summarizer](https://github.com/navneeeth/youtube-video-summarizer)
 *   🧠  I'm learning Natural Language Processing, Node JS, & Docker
 *   🤝  I'm open to collaborating on Machine & Deep Learning projects
 *   ⚡  Huge fan of Marvel's Daredevil!

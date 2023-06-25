@@ -6,7 +6,7 @@ Web & Android & Backend Developer, Machine Learning Researcher, Adventurer
 
 learning to code through the simulation
 
-*   🌍  I'm based in New York, New York
+*   🌍  I'm based in Campbell, California
 *   🖥️  See my portfolio [here](https://padaki-n.com)
 *   ✉️  You can contact me at [navneeth.padaki15@gmail.com](mailto:navneeth.padaki15@gmail.com)
 *   🚀  I'm currently working on [YouTube Video Summarizer](https://github.com/navneeeth/youtube-video-summarizer)

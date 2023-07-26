@@ -1,16 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Navneeth Krishna M
 ==========================================================================================================================================
 
-Web & Android & Backend Developer, Machine Learning Researcher, Adventurer
+Full-Stack Software Engineer, Machine Learning Researcher, Adventurer
 --------------------------------------------------------------------------
 
 learning to code through the simulation
 
-*   🌍  I'm based in Campbell, California
+*   🌍  I'm based in the San Francisco Bay Area
 *   🖥️  See my portfolio [here](https://padaki-n.com)
 *   ✉️  You can contact me at [navneeth.padaki15@gmail.com](mailto:navneeth.padaki15@gmail.com)
-*   🚀  I'm currently working on [YouTube Video Summarizer](https://github.com/navneeeth/youtube-video-summarizer)
-*   🧠  I'm learning Natural Language Processing, Node JS, & Docker
+*   🚀  I'm currently working on [FinGPT]([https://github.com/navneeeth/youtube-video-summarizer](https://github.com/navneeeth/fin-gpt-prod))
+*   🧠  I'm learning Natural Language Processing & Docker
 *   🤝  I'm open to collaborating on Machine & Deep Learning projects
 *   ⚡  Huge fan of Marvel's Daredevil!
 

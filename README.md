@@ -9,7 +9,7 @@ learning to code through the simulation
 *   🌍  I'm based in the San Francisco Bay Area
 *   🖥️  See my portfolio [here](https://padaki-n.com)
 *   ✉️  You can contact me at [navneeth.padaki15@gmail.com](mailto:navneeth.padaki15@gmail.com)
-*   🚀  I'm currently working on [FinGPT]([https://github.com/navneeeth/youtube-video-summarizer](https://github.com/navneeeth/fin-gpt-prod))
+*   🚀  I'm currently working on [FinGPT](https://github.com/navneeeth/fin-gpt-prod)
 *   🧠  I'm learning Natural Language Processing & Docker
 *   🤝  I'm open to collaborating on Machine & Deep Learning projects
 *   ⚡  Huge fan of Marvel's Daredevil!

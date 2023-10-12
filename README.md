@@ -6,11 +6,11 @@ Full-Stack Software Engineer, Machine Learning Researcher, Adventurer
 
 learning to code through the simulation
 
-*   🌍  I'm based in the San Francisco Bay Area
+*   🌍  I'm based in San Francisco Bay Area / New York City
 *   🖥️  See my portfolio [here](https://padaki-n.com)
 *   ✉️  You can contact me at [navneeth.padaki15@gmail.com](mailto:navneeth.padaki15@gmail.com)
 *   🚀  I'm currently working on [FinGPT](https://github.com/navneeeth/fin-gpt-prod)
-*   🧠  I'm learning Natural Language Processing & Docker
+*   🧠  I'm learning Natural Language Processing
 *   🤝  I'm open to collaborating on Machine & Deep Learning projects
 *   ⚡  Huge fan of Marvel's Daredevil!
 

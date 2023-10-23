@@ -6,7 +6,7 @@ Full-Stack Software Engineer, Machine Learning Researcher, Adventurer
 
 learning to code through the simulation
 
-*   🌍  I'm based in San Francisco Bay Area / New York City
+*   🌍  I'm based in San Francisco Bay Area / Columbia, SC / New York City
 *   🖥️  See my portfolio [here](https://padaki-n.com)
 *   ✉️  You can contact me at [navneeth.padaki15@gmail.com](mailto:navneeth.padaki15@gmail.com)
 *   🚀  I'm currently working on [FinGPT](https://github.com/navneeeth/fin-gpt-prod)
